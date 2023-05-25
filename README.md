@@ -11,3 +11,4 @@
 * git restore --staged [nome do arquivo]
 * git push -u origin [nome da branch]
 * git pull
+* git fetch
