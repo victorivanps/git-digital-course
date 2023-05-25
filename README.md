@@ -9,3 +9,5 @@
 * git restore [nome do arquivo]
 * git log
 * git restore --staged [nome do arquivo]
+* git push -u origin [nome da branch]
+* git pull
